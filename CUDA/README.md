@@ -292,18 +292,5 @@ The project will be graded as follows:
   Runs correctly with other three kernels   75 (25% each kernel)
   Writeup                                   10
 :::
-:::
-:::
-:::
 
-::: container
-::: row
-::: {.col-md-12 style="padding-top: 24px; text-align: center;"}
-[Web Accessibility](https://www.umd.edu/web-accessibility)
-:::
-:::
-:::
-:::
 
-::: {.grammarly-desktop-integration aria-label="grammarly-integration" role="group" tabindex="-1" data-content="{\"mode\":\"full\",\"isActive\":true,\"isUserDisabled\":false}"}
-:::

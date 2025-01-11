@@ -16,7 +16,7 @@ programming on a cluster and MPI. For this assignment, you have to write a
 parallel implementation of a program to simulate the <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Game of Life</a>.
       </p>
 
-       <h4>Serial Algorithm</h4>
+    ##Serial Algorithm
 The game of life simulates simple cellular automata. The game is played on a
 rectangular board containing cells. At the start, some of the cells are
 occupied, the rest are empty. The game consists of constructing successive

@@ -136,17 +136,6 @@ available via these links:
 If you want to try a bigger board try running on the input file
 [life.1024x1024.data](https://www.cs.umd.edu/class/fall2023/cmsc416/assignments/assign1/data/life.1024x1024.data).
 
-##### Grading
-
-The project will be graded as follows:
-
-  Component                           Percentage
-  ----------------------------------- ------------
-  Runs correctly with 22x22 board     30
-  Runs correctly with 32x32 board     30
-  Runs correctly with 512x512 board   30
-  Writeup                             10
-
 
 #### Video Effects
 
@@ -282,15 +271,6 @@ Feel free to try different videos and image kernels. Keep in mind that
 some videos may drastically increase in file size if the kernel reduces
 the compression rate of the video data.
 
-##### Grading
 
-The project will be graded as follows:
-
-  Component                                 Percentage
-  ----------------------------------------- ----------------------
-  Runs correctly with the identity kernel   15
-  Runs correctly with other three kernels   75 (25% each kernel)
-  Writeup                                   10
-:::
 
 

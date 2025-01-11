@@ -1,32 +1,3 @@
-<span class="navbar-brand mb-0 h1">[<img
-src="./CMSC416%20-%20Introduction%20to%20Parallel%20Computing%20(Fall%202023)_files/UMD_CMNS_CompSci_S1_Color.png"
-height="30" alt="UMD CMNS logo" />](https://www.cs.umd.edu/)</span>
-
-<span class="navbar-toggler-icon"></span>
-
-<div id="navbarNav" class="collapse navbar-collapse">
-
--   <a href="https://www.cs.umd.edu/class/fall2023/cmsc416/index.shtml"
-    class="nav-link"><em></em> CMSC416</a>
--   <a href="https://www.cs.umd.edu/class/fall2023/cmsc416/lectures.shtml"
-    class="nav-link">Lecture slides</a>
--   <a
-    href="https://www.cs.umd.edu/class/fall2023/cmsc416/assignments.shtml"
-    class="nav-link">Assignments</a>
--   <a href="https://www.cs.umd.edu/class/fall2023/cmsc416/resources.shtml"
-    class="nav-link">Resources</a>
-
-Search
-
-</div>
-
-<div class="container-fluid">
-
-<div class="add-padding">
-
-<div class="row" style="padding-top: 70px;">
-
-<div class="col-md-12 pt-md-3">
 
 ## Introduction to Parallel Computing (CMSC416)
 

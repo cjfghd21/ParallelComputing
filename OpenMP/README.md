@@ -1,6 +1,5 @@
 
-## Introduction to Parallel Computing (CMSC416) {#introduction-to-parallel-computing-cmsc416 .text-center}
-
+## Introduction to Parallel Computing (CMSC416) 
 #### Assignment 3: OpenMP
 
 

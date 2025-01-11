@@ -240,37 +240,4 @@ The program will output to stdout:
               Frames processed per second: 80.039 frames/s
             
 
-##### What to Submit
-
-You must submit the following files and no other files:
-
--   `video-effect.cu`: file with *convolveGPU* implemented
--   `driver.cc`: file with changes to the command line arguments
-    implemented
--   `Makefile` that will compile your code successfully on zaratan when
-    using nvcc. A Makefile is provided
-    [here](https://github.com/CMSC416/CMSC416/blob/13109134f9dc6293519b290a47e9775000b78715/assignment-4/video-effect/Makefile).
-    Make sure that the executable name is video-effect, and do not
-    include the executables in the tarball.
--   You must also submit a short report
-    (`LastName-FirstName-report.pdf`) with performance results (one line
-    plot). The line plots should present the execution times to run the
-    GPU version respectively on the input file video.mp4 (for different
-    block sizes). You can change the block size by changing the
-    *blockDimSize* variable. In the report, you should mention:
-    -   how you wrote the kernel
-    -   how was the initial data distribution done
-    -   what are the performance results, and are they what you expected
-
-You should put the code, Makefile and report in a single directory
-(named `LastName-FirstName-assign5`), compress it to .tar.gz
-(`LastName-FirstName-assign5.tar.gz`) and upload that to
-[ELMS](https://myelms.umd.edu/).
-
-Feel free to try different videos and image kernels. Keep in mind that
-some videos may drastically increase in file size if the kernel reduces
-the compression rate of the video data.
-
-
-
 
